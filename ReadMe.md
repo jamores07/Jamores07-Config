@@ -5,4 +5,4 @@ My name is John Amores and I’m a coding enthusiast continuously developing my 
 [![LinkedIn](/Assets/LinkedIn.svg)](https://www.linkedin.com/in/john-amores/)
 
 #### 💻 Technologies that I use
-![HTML5](/Assets/HTML.svg) ![CSS3](/Assets/CSS.svg) ![JavaScript](/Assets/JavaScript.svg)
+![HTML5](/Assets/HTML.svg) ![CSS3](/Assets/CSS.svg) ![JavaScript](/Assets/JavaScript.svg)  ![Python](/Assets/Python.svg)
