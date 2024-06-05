@@ -1,8 +1,37 @@
-### ✨ Who am I?
-My name is John Amores and I’m a coding enthusiast continuously developing my skills by learning new languages and patterns. Currently I am employed as a Technology Analyst with Infosys but I'm always looking for new opportunties to expand my knowledge and expertise. On this page you will find all of the code snippets that I use to practice and perfect my skills. 
+<h1>Hi, I'm John! <br/><a href="https://github.com/jamores07">Programmer</a>, <a href="https://www.linkedin.com/in/john-amores/">Information Technology Professional</a></h1>
 
-#### 🔗 My LinkedIn Profile
-[![LinkedIn](/Assets/LinkedIn.svg)](https://www.linkedin.com/in/john-amores/)
+<h2>👨‍💻 Software Development Projects:</h2>
 
-#### 💻 Technologies that I use
-![HTML5](/Assets/HTML.svg) ![CSS3](/Assets/CSS.svg) ![JavaScript](/Assets/JavaScript.svg)  ![Python](/Assets/Python.svg)
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>PowerShell</b>
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+- <b>C# (.NET Desktop Applications)</b>
+  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
+  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+- <b>Python</b>
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
+<h2> 🤳 Connect with me:</h2>
+
+
+<!--
+**jamores07/jamores07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
